@@ -8,7 +8,7 @@ const App = () => {
 
   // Handle login button press
   const handleLogin = () => {
-    if (email === 'test@example.com' && password === 'password123') {
+    if (email === 'katelacaroon@gmail.com' && password === 'pass123') {
       Alert.alert('Login Successful');
     } else {
       Alert.alert('Invalid email or password');
